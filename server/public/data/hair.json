@@ -1,0 +1,35 @@
+{
+  "haircolor": [
+    "blonde",
+    "brunette",
+    "black",
+    "red",
+    "bald",
+    "grey"
+  ],
+  "hairlength":[
+    "none",
+    "shaved",
+    "buzz-cut",
+    "super short",
+    "short",
+    "medium",
+    "shoulder length",
+    "mid-back",
+    "long"
+  ],
+  "hairstyle":[
+    "straight",
+    "flat",
+    "wavy",
+    "curly",
+    "poofy"
+  ],
+  "hairhighlights":[
+    "blonde highlights",
+    "red highlights",
+    "light brown hightlights",
+    "dark brown lowlights",
+    "dark red lowlights"
+  ]
+}
